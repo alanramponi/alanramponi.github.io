@@ -14,7 +14,7 @@ order:  6
 | [LREC 2020]  (May 11th - May 16th)<br>*Language Resources and Evaluation Conference (12th)*  | Marseille<br>(France) | Nov 25th, 2019 |
 | [ACL 2020]  (Jul 5th - Jul 10th)<br>*Annual Meeting of the Association for Computational Linguistics (58th)*  | Seattle<br>(USA) | TBA |
 | [COLING 2020]  (Sep 13th - Sep 18th)<br>*International Conference on Computational Linguistics (28th)*  | Barcelona<br>(Spain) | TBA |
-| [EMNLP 2020]  (Nov 8th - Nov 12th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Bávaro<br>(Dominican Rep.) | TBA |
+| [EMNLP 2020]  (Nov 8th - Nov 12th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Bávaro<br>(Dom. Rep.) | TBA |
 | [AACL/IJCNLP 2020]  (Dec 4th - Dec 7th)<br>*Asia-Pacific Chapter of the of Association for Computational Linguistic (1st)*  | Suzhou<br>(China) | TBA |
 {:.stretch-table.dl-table}
 
