@@ -23,7 +23,7 @@ menu: false
 order: 1
 ---
 
-Welcome! I'm a Ph.D. student in natural language processing at the [University of Trento]{:target="\_blank"}, Italy, holding a Ph.D. fellowship from the [Microsoft Research COSBI]{:target="\_blank"} research centre.
+Welcome! I'm a Ph.D. student in natural language processing at the [University of Trento]{:target="\_blank"}, Italy, holding a Ph.D. fellowship from the [Microsoft Research COSBI]{:target="\_blank"} research centre. I'm currently a visiting researcher in the [NLP group]{:target="\_blank"} at [ITU Copenhagen]{:target="\_blank"}, Denmark.
 
 My research interests include unsupervised domain adaptation and deep learning methods for biomedical information extraction from scientific literature. In particular, I'm focused on building robust language models which are resilient to domain shift, thus being readily applicable to real-world problems. Here is my [CV]{:target="\_blank"} and here is a [short bio].
 
