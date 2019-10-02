@@ -30,12 +30,14 @@ My research interests include unsupervised domain adaptation and deep learning m
 
 ## What's new
 
+*   **Sep 2019** -- I've attended the [AthNLP]{:target="\_blank"} Summer School, Athens, Greece.
 *   **Aug 2019** -- I've been awarded a grant to present my work at [EurNLP]{:target="\_blank"}, Facebook, London.
 *   **Jul 2019** -- Talk on "Learning under domain shift" at the [Microsoft Research COSBI]{:target="\_blank"}.
 *   **Jun 2019** -- I've been awarded the Graduate Merit Award 17/18 from [University of Trento].
 *   **May 2019** -- In September I will join the [NLP group]{:target="\_blank"} at [ITU Copenhagen]{:target="\_blank"} for 6 months as a visiting researcher, working closely with prof. [Barbara Plank]{:target="\_blank"} on domain adaptation.
 
 
+[AthNLP]: http://athnlp.iit.demokritos.gr/
 [EurNLP]: https://www.eurnlp.org/
 [University of Trento]: https://ict.unitn.it/
 [Microsoft Research COSBI]: https://www.cosbi.eu
