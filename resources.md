@@ -9,7 +9,6 @@ order:  6
 
 | Name and date                                                         | Location            | Submission  |
 |:---------------------------------------------------------------------------------|:-------------------:|:----------------:|
-| [NODALIDA 2019]  (Sep 30th - Oct 2nd)<br>*Nordic Conference on Computational Linguistics (22nd)*  | Turku<br>(Finland) | ~~Jun 7th, 2019~~ |
 | [EMNLP/IJCNLP 2019]  (Nov 3rd - Nov 7th)<br>*Conference on Empirical Methods in Natural Language Processing (24th)*  | Hong Kong<br>(China) | ~~May 15th, 2019~~ |
 | [LREC 2020]  (May 11th - May 16th)<br>*Language Resources and Evaluation Conference (12th)*  | Marseille<br>(France) | Nov 25th, 2019 |
 | [ACL 2020]  (Jul 5th - Jul 10th)<br>*Annual Meeting of the Association for Computational Linguistics (58th)*  | Seattle<br>(USA) | Dec 9th, 2019 |
