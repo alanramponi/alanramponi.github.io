@@ -9,24 +9,14 @@ order:  6
 
 | Name and date                                                         | Location            | Submission  |
 |:---------------------------------------------------------------------------------|:-------------------:|:----------------:|
-| [EMNLP/IJCNLP 2019]  (Nov 3rd - Nov 7th)<br>*Conference on Empirical Methods in Natural Language Processing (24th)*  | Hong Kong<br>(China) | ~~May 15th, 2019~~ |
 | [LREC 2020]  (May 11th - May 16th)<br>*Language Resources and Evaluation Conference (12th)*  | Marseille<br>(France) | Nov 25th, 2019 |
 | [ACL 2020]  (Jul 5th - Jul 10th)<br>*Annual Meeting of the Association for Computational Linguistics (58th)*  | Seattle<br>(USA) | Dec 9th, 2019 |
-| [COLING 2020]  (Sep 13th - Sep 18th)<br>*International Conference on Computational Linguistics (28th)*  | Barcelona<br>(Spain) | TBA |
+| [COLING 2020]  (Sep 13th - Sep 18th)<br>*International Conference on Computational Linguistics (28th)*  | Barcelona<br>(Spain) | Apr 8th, 2020 |
 | [EMNLP 2020]  (Nov 8th - Nov 12th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Punta Cana<br>(Dom. Rep.) | TBA |
 | [AACL/IJCNLP 2020]  (Dec 4th - Dec 7th)<br>*Asia-Pacific Chapter of the of Association for Computational Linguistic (1st)*  | Suzhou<br>(China) | TBA |
 {:.stretch-table.dl-table}
 
 Conferences that could be announced for 2020 are: [NAACL-HLT] and [CONLL]. Also, AI/ML conferences include [NeurIPS], [ICLR], [IJCAI], [ICML] and [AAAI].
-
-
-## Events and workshops
-
-| Name and date | Location  | Submission  |
-|:-----------------------|:-----------:|:-----------:|
-| [AthNLP 2019]  (*summer school*, Sep 18th - Sep 25th)<br>*Athens Natural Language Processing Summer School*  | Athens<br>(Greece) | ~~Jul 10th, 2019~~ |
-| [EurNLP 2019]  (*summit*, Oct 11th)<br>*European Natural Language Processing Summit*  | London<br>(UK) | ~~Jul 8th, 2019~~ |
-
 
 
 [ACL 2019]: http://www.acl2019.org/
