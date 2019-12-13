@@ -13,7 +13,7 @@ order:  6
 | [ACL 2020]  (Jul 5th - Jul 10th)<br>*Annual Meeting of the Association for Computational Linguistics (58th)*  | Seattle<br>(USA) | ~~Dec 9th, 2019~~ |
 | [BioNLP 2020]  (*workshop*, [ACL 2020])<br>*Workshop on Biomedical Natural Language Processing (19th)*  | Seattle<br>(USA) | Mar 20th, 2020 |
 | [COLING 2020]  (Sep 13th - Sep 18th)<br>*International Conference on Computational Linguistics (28th)*  | Barcelona<br>(Spain) | Apr 8th, 2020 |
-| [EMNLP 2020]  (Nov 8th - Nov 12th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Punta Cana<br>(Dom. Rep.) | around May, 2020 |
+| [EMNLP 2020]  (Nov 8th - Nov 12th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Punta Cana<br>(Dom. Rep.) | TBA (May, 2020) |
 | [AACL/IJCNLP 2020]  (Dec 4th - Dec 7th)<br>*Asia-Pacific Chapter of the of Association for Computational Linguistic (1st)*  | Suzhou<br>(China) | TBA |
 {:.stretch-table.dl-table}
 
