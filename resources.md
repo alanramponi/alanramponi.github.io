@@ -11,10 +11,9 @@ order:  6
 |:---------------------------------------------------------------------------------|:-------------------:|:----------------:|
 | [LREC 2020]  (May 11th - May 16th)<br>*Language Resources and Evaluation Conference (12th)*  | Marseille<br>(France) | ~~Dec 2nd, 2019~~ |
 | [ACL 2020]  (Jul 5th - Jul 10th)<br>*Annual Meeting of the Association for Computational Linguistics (58th)*  | Seattle<br>(USA) | ~~Dec 9th, 2019~~ |
-| [BioNLP 2020]  (*workshop*, [ACL 2020])<br>*Workshop on Biomedical Natural Language Processing (19th)*  | Seattle<br>(USA) | Mar 20th, 2020 |
 | [COLING 2020]  (Sep 13th - Sep 18th)<br>*International Conference on Computational Linguistics (28th)*  | Barcelona<br>(Spain) | Apr 8th, 2020 |
-| [EMNLP 2020]  (Nov 8th - Nov 12th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Punta Cana<br>(Dom. Rep.) | TBA (May, 2020) |
-| [AACL/IJCNLP 2020]  (Dec 4th - Dec 7th)<br>*Asia-Pacific Chapter of the of Association for Computational Linguistic (1st)*  | Suzhou<br>(China) | TBA |
+| [EMNLP 2020]  (Nov 8th - Nov 12th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Punta Cana<br>(Dom. Rep.) | May 11th, 2020 |
+| [AACL/IJCNLP 2020]  (Dec 4th - Dec 7th)<br>*Asia-Pacific Chapter of the of Association for Computational Linguistic (1st)*  | Suzhou<br>(China) | Jun 26th, 2020 |
 {:.stretch-table.dl-table}
 
 General AI/ML venues include [NeurIPS], [ICLR], [ICML], [IJCAI], [KDD], and [AAAI].
@@ -26,8 +25,8 @@ General AI/ML venues include [NeurIPS], [ICLR], [ICML], [IJCAI], [KDD], and [AAA
 [LREC 2020]: https://lrec2020.lrec-conf.org/en/
 [ACL 2020]: http://www.acl2020.org/
 [COLING 2020]: https://coling2020.org/
-[EMNLP 2020]: #
-[AACL/IJCNLP 2020]: https://aaclweb.org/index.html
+[EMNLP 2020]: https://2020.emnlp.org/
+[AACL/IJCNLP 2020]: http://aacl2020.org/
 
 [NAACL-HLT]: https://naacl2019.org/
 [EMNLP]: https://www.emnlp-ijcnlp2019.org/

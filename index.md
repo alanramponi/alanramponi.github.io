@@ -30,6 +30,7 @@ My research interests include unsupervised domain adaptation and deep learning m
 
 ## What's new
 
+*   **Feb 2020** -- Two [papers]{:target="\_blank"} accepted to [LREC 2020]{:target="\_blank"}, Marseille, France!
 *   **Oct 2019** -- I've presented a poster on my ongoing work at [EurNLP]{:target="\_blank"}, Facebook, London.
 *   **Sep 2019** -- I've attended the [AthNLP]{:target="\_blank"} Summer School, Athens, Greece.
 *   **Aug 2019** -- I've been awarded a grant to present my work at [EurNLP]{:target="\_blank"}, Facebook, London.
@@ -38,6 +39,7 @@ My research interests include unsupervised domain adaptation and deep learning m
 *   **May 2019** -- In September I will join the [NLP group]{:target="\_blank"} at [ITU Copenhagen]{:target="\_blank"} for 6 months as a visiting researcher, working closely with prof. [Barbara Plank]{:target="\_blank"} on domain adaptation!
 
 
+[LREC 2020]: https://lrec2020.lrec-conf.org/en/
 [AthNLP]: http://athnlp.iit.demokritos.gr/
 [EurNLP]: https://www.eurnlp.org/
 [University of Trento]: https://ict.unitn.it/
@@ -47,3 +49,4 @@ My research interests include unsupervised domain adaptation and deep learning m
 [NLP group]: https://nlp.itu.dk/
 [ITU Copenhagen]: https://en.itu.dk/
 [Barbara Plank]: https://bplank.github.io/
+[papers]: publications/
