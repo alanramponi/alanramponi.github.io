@@ -23,14 +23,14 @@ menu: false
 order: 1
 ---
 
-Welcome! I'm a Ph.D. student in natural language processing at the [University of Trento]{:target="\_blank"}, Italy, holding a Ph.D. fellowship from the [Microsoft Research COSBI]{:target="\_blank"} research centre. I'm currently a visiting researcher in the [NLP group]{:target="\_blank"} at [ITU Copenhagen]{:target="\_blank"}, Denmark.
+Welcome! I'm a final year Ph.D. student in natural language processing at the [University of Trento]{:target="\_blank"}, Italy, holding a Ph.D. fellowship from the [Microsoft Research COSBI]{:target="\_blank"} research centre, working on deep learning for biomedical information extraction from scientific literature. I'm currently a visiting researcher in the [NLP group]{:target="\_blank"} at [ITU Copenhagen]{:target="\_blank"}, Denmark.
 
-My research interests include unsupervised domain adaptation and deep learning methods for biomedical information extraction from scientific literature. In particular, I'm focused on building robust language models which are resilient to domain shift, thus being readily applicable to real-world problems. Here is my [CV]{:target="\_blank"} and here is a [short bio].
+My research interests include transfer learning, robustness, and bias in natural language processing. More broadly, I'm interested in making NLP models more robust across language variations, such as domains, genres, and social factors, thus being readily applicable to real-world problems. Here is my [CV]{:target="\_blank"} and here is a [short bio].
 
 
 ## What's new
 
-*   **Feb 2020** -- Two [papers]{:target="\_blank"} accepted to [LREC 2020]{:target="\_blank"}, Marseille, France!
+*   **Feb 2020** -- Two [papers] accepted to [LREC 2020]{:target="\_blank"}, Marseille, France!
 *   **Oct 2019** -- I've presented a poster on my ongoing work at [EurNLP]{:target="\_blank"}, Facebook, London.
 *   **Sep 2019** -- I've attended the [AthNLP]{:target="\_blank"} Summer School, Athens, Greece.
 *   **Aug 2019** -- I've been awarded a grant to present my work at [EurNLP]{:target="\_blank"}, Facebook, London.
