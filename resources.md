@@ -9,24 +9,29 @@ order:  6
 
 | Name and date                                                         | Location            | Submission  |
 |:---------------------------------------------------------------------------------|:-------------------:|:----------------:|
-| [LREC 2020]  (May 11th - May 16th)<br>*Language Resources and Evaluation Conference (12th)*  | Marseille<br>(France) | ~~Dec 2nd, 2019~~ |
-| [ACL 2020]  (Jul 5th - Jul 10th)<br>*Annual Meeting of the Association for Computational Linguistics (58th)*  | Seattle<br>(USA) | ~~Dec 9th, 2019~~ |
-| [EMNLP 2020]  (Nov 16th - Nov 20th)<br>*Conference on Empirical Methods in Natural Language Processing (25th)*  | Punta Cana<br>(Dom. Rep.) | Jun 1st, 2020 |
-| [COLING 2020]  (Dec 8th - Sep 13th)<br>*International Conference on Computational Linguistics (28th)*  | Barcelona<br>(Spain) | Jul 1st, 2020 |
-| [AACL/IJCNLP 2020]  (Dec 4th - Dec 7th)<br>*Asia-Pacific Chapter of the of Association for Computational Linguistic (1st)*  | Suzhou<br>(China) | Jun 26th, 2020 |
+| [EACL 2021]{:target="\_blank"}  (Apr 19th - Apr 23th)<br>*European Chapter of the Association for Computational Linguistic (16th)*  | Kyiv<br>(Ukraine) | ~~Oct 7th, 2020~~ |
+| [NAACL 2021]{:target="\_blank"}  (Jun 6th - Jun 11th)<br>*North American Chapter of the Association for Computational Linguistic (Xth)*  | Mexico City<br>(Mexico) | ~~Nov 23rd, 2020~~ |
+| [ACL/IJCNLP 2021]{:target="\_blank"}  (Aug 1st - Aug 6th)<br>*Annual Meeting of the Association for Computational Linguistics (59th)*  | Bangkok<br>(Thailand) | Feb 1st, 2021 | 
+| [EMNLP 2021]{:target="\_blank"}  (Nov 7th - Nov 11th)<br>*Conference on Empirical Methods in Natural Language Processing (26th)*  | Punta Cana<br>(Dom. Rep.) | TBA |
 {:.stretch-table.dl-table}
 
-General AI/ML venues include [NeurIPS], [ICLR], [ICML], [IJCAI], [KDD], and [AAAI].
+General AI/ML venues include [NeurIPS]{:target="\_blank"}, [ICLR]{:target="\_blank"}, [ICML]{:target="\_blank"}, [IJCAI]{:target="\_blank"}, [KDD]{:target="\_blank"}, and [AAAI]{:target="\_blank"}.
 
 
 [ACL 2019]: http://www.acl2019.org/
 [NODALIDA 2019]: https://nodalida2019.org/
+[NODALIDA 2021]: https://nodalida2021.github.io/
 [EMNLP/IJCNLP 2019]: https://www.emnlp-ijcnlp2019.org/
 [LREC 2020]: https://lrec2020.lrec-conf.org/en/
 [ACL 2020]: http://www.acl2020.org/
 [COLING 2020]: https://coling2020.org/
 [EMNLP 2020]: https://2020.emnlp.org/
 [AACL/IJCNLP 2020]: http://aacl2020.org/
+[EACL 2021]: https://2021.eacl.org/
+[NAACL/HLT 2021]: https://2021.naacl.org/
+[ACL/IJCNLP 2021]: https://2021.aclweb.org/
+[EMNLP 2021]: https://2021.emnlp.org/
+[NAACL 2021]: https://2021.naacl.org/
 
 [NAACL-HLT]: https://naacl2019.org/
 [EMNLP]: https://www.emnlp-ijcnlp2019.org/

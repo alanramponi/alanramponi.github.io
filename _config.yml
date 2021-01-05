@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Researcher in transfer learning and robustness for NLP.
+  PhD candidate in transfer learning and robustness for NLP.
 
 # A list of keywords for your blog.
 keywords:              []
@@ -143,7 +143,7 @@ hydejack:
   no_google_fonts:     false
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    false
+  no_mark_external:    true #false
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false

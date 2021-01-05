@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Blog
-menu:   true
+menu:   false
 order:  10
 ---
 

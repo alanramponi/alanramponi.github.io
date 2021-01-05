@@ -19,34 +19,28 @@ hide_description: true
 image: /assets/img/blog/hydejack-8.png
 
 # Setting `menu` will generate an entry in the sidebar.
-menu: false
+menu: true
 order: 1
 ---
 
-Welcome! I'm a final year Ph.D. student in natural language processing at the [University of Trento]{:target="\_blank"}, Italy, holding a Ph.D. fellowship from the [Microsoft Research COSBI]{:target="\_blank"} research centre, working on deep learning for biomedical information extraction from scientific literature. I'm currently a visiting researcher in the [NLP group]{:target="\_blank"} at [ITU Copenhagen]{:target="\_blank"}, Denmark.
+I'm a PhD candidate in natural language processing at the [University of Trento]{:target="\_blank"}, Italy. I was supported by a fellowship from the [Microsoft Research COSBI]{:target="\_blank"} centre, where I worked on transfer learning for  information extraction from scientific literature. From 2019 to 2020, I was a visiting PhD fellow in the [NLPnorth]{:target="\_blank"} group at the [IT University of Copenhagen]{:target="\_blank"}, Denmark. I received the M.Sc. in computer science (cum laude) from the University of Trento in 2017.
 
-My research interests include transfer learning, robustness, and bias in natural language processing. More broadly, I'm interested in making NLP models more robust across language variations, such as domains, genres, and social factors, thus being readily applicable to real-world problems. Here is my [CV]{:target="\_blank"} and here is a [short bio].
+My research interests include transfer learning, robustness, and bias in natural language processing (NLP). More broadly, I'm interested in making NLP models aware of language variations, such as domains, genres, and social factors, thus being readily and more fairly applicable to real-world problems.
 
-
-## What's new
-
-*   **Feb 2020** -- Two [papers] accepted to [LREC 2020]{:target="\_blank"}, Marseille, France!
-*   **Oct 2019** -- I've presented a poster on my ongoing work at [EurNLP]{:target="\_blank"}, Facebook, London.
-*   **Sep 2019** -- I've attended the [AthNLP]{:target="\_blank"} Summer School, Athens, Greece.
-*   **Aug 2019** -- I've been awarded a grant to present my work at [EurNLP]{:target="\_blank"}, Facebook, London.
-*   **Jul 2019** -- Talk on "Learning under domain shift" at the [Microsoft Research COSBI]{:target="\_blank"}.
-*   **Jun 2019** -- I've been awarded the Graduate Merit Award 17/18 from [University of Trento].
-*   **May 2019** -- In September I will join the [NLP group]{:target="\_blank"} at [ITU Copenhagen]{:target="\_blank"} for 6 months as a visiting researcher, working closely with prof. [Barbara Plank]{:target="\_blank"} on domain adaptation!
+Feel free to drop me a line for further info or an updated cv. Here is an [informal bio].
 
 
+[EMNLP 2020]: https://2021.emnlp.org/
+[EACL 2021]: https://2021.eacl.org/
+[IEEE Access]: https://ieeeaccess.ieee.org/
 [LREC 2020]: https://lrec2020.lrec-conf.org/en/
-[AthNLP]: http://athnlp.iit.demokritos.gr/
+[AthNLP]: http://athnlp2019.iit.demokritos.gr/
 [EurNLP]: https://www.eurnlp.org/
 [University of Trento]: https://ict.unitn.it/
 [Microsoft Research COSBI]: https://www.cosbi.eu
 [CV]: docs/alan-ramponi_cv.pdf
-[short bio]: short_bio/
-[NLP group]: https://nlp.itu.dk/
-[ITU Copenhagen]: https://en.itu.dk/
+[informal bio]: short_bio/
+[NLPnorth]: https://nlpnorth.github.io/
+[IT University of Copenhagen]: https://en.itu.dk/
 [Barbara Plank]: https://bplank.github.io/
 [papers]: publications/

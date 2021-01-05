@@ -26,10 +26,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
+    twitter:         alanramponi
     github:          alanramponi
     #google-scholar:  alanramponi
-    twitter:         alanramponi
-    linkedin:        alanramponi
+    # linkedin:        alanramponi
     # download:        <url>
     email:           alan.ramponi@unitn.it
     # rss:             https://<url>/feed.xml
