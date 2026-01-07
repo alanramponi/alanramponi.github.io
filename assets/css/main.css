@@ -19,7 +19,7 @@ body.fixed-top-nav { padding-top: 56px; }
 
 body.sticky-bottom-footer { padding-bottom: 0; }
 
-.container { max-width: 900px; }
+.container { max-width: 1000px; }
 
 .profile img { width: 100%; }
 
@@ -56,7 +56,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .post-description a:hover { color: var(--global-theme-color); text-decoration: none; }
 
-.navbar { box-shadow: none; border-bottom: 1px solid #e8e8e8; background-color: var(--global-bg-color); opacity: 0.95; }
+.navbar { box-shadow: none; border-bottom: 0.75px solid #b5b5b5; background-color: var(--global-bg-color); opacity: 0.95; }
 
 .navbar .dropdown-menu { background-color: var(--global-bg-color); }
 
@@ -128,7 +128,7 @@ footer.fixed-bottom a { color: var(--global-footer-link-color); }
 
 footer.fixed-bottom a:hover { color: var(--global-theme-color); text-decoration: none; }
 
-footer.sticky-bottom { border-top: 1px solid #e8e8e8; padding-top: 40px; padding-bottom: 40px; font-size: 0.9rem; }
+footer.sticky-bottom { border-top: 0.75px solid #b5b5b5; padding-top: 20px; padding-bottom: 20px; font-size: 0.8rem; text-align: center; }
 
 .header-bar { border-bottom: 1px solid #e8e8e8; text-align: center; padding-top: 2rem; padding-bottom: 5rem; }
 
@@ -233,6 +233,14 @@ html.transition, html.transition *, html.transition *:before, html.transition *:
 .profile img { width: 90%; margin-bottom: 1rem; }
 
 .rounded-image { display: block; margin-left: auto; margin-right: auto; border-radius: 50%; }
+
+.hidden-news { display: none; }
+
+#toggle-news { margin-left: 0.2rem; font-variant-caps: small-caps; cursor: pointer; font-weight: 500; letter-spacing: 0.04em; font-size: 1.1rem; }
+
+#news-list { margin-bottom: 0.4rem; }
+
+@media (max-width: 576px) { .post-header .post-title { text-align: center; } }
 
 /******************************************************************************* Style overrides for distill blog posts. */
 d-byline { border-top-color: #e8e8e8 !important; }
